@@ -1,0 +1,22 @@
+/* estilo de fuente kanit*/
+    body {
+        font-family: 'Kanit', sans-serif;
+        background: #eaefef;
+        height: 500px;
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        padding-top: 10%;
+    }
+      
+    .container {
+    background: #dee0e2;
+    
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 27px 0px rgba(199,189,189,0.82);
+    -webkit-box-shadow: 10px 10px 27px 0px rgba(199,189,189,0.82);
+    -moz-box-shadow: 10px 10px 27px 0px rgba(199,189,189,0.82);
+    }
