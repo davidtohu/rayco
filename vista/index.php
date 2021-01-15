@@ -15,7 +15,7 @@
   <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
   <script src="../js/ajax.js"></script>
 
-   <?php require_once "../extensiones/vendor/autoload.php"; ?> 
+   <?php require_once "../autoload.php"; ?> 
 </head>
 <body>
 
