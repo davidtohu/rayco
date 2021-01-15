@@ -15,11 +15,9 @@
   <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
   <script src="../js/ajax.js"></script>
 
-<<<<<<< HEAD:index.php
+
    <?php require_once "autoload.php"; ?> 
-=======
-   <?php require_once "../autoload.php"; ?> 
->>>>>>> 5719641bc7c2c3bb566903a4eaf764a8eddd35d8:vista/index.php
+
 </head>
 <body>
 
